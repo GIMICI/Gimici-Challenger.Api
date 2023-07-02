@@ -139,6 +139,7 @@ All requests must contain the following headers:
 | api-key    | your api key                                                                                  |
 | sign       | the query's serialized body signed by your key's "secret" according to the HMAC-SHA512 method |
 
+https://github.com/GIMICI/Gimici-Challenger.Api.wiki.git
 
 #### **Node.js authentication**
 
